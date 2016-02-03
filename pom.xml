@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>history</artifactId>
-    <version>1.17.0-SNAPSHOT</version>
+    <version>1.17.0</version>
     <name>History</name>
     <description>WebJar for History</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/history</url>
         <connection>scm:git:https://github.com/webjars/history.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/history.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>history-1.17.0</tag>
     </scm>
 
     <build>
